@@ -1,0 +1,18 @@
+{
+  "name": "test-art",
+  "version": "1.0.0",
+  "description": "Collaborative art program",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Montenegro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://www.zeitgeist.com/"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}
